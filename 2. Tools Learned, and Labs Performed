@@ -1,0 +1,39 @@
+🧪 Lab Exercises (with Configuration Examples)
+
+These were the hands-on portions that reinforced each module:
+
+Lab 1: Assigning Static IP to RK-1
+
+Login: 192.168.1.1
+Username: admin
+Password: admin
+Navigate to: Network > LAN Settings
+Assign: 192.168.1.10/24
+
+Lab 2: Creating VLANs on the SX-8P
+
+VLAN 10 - IoT Devices
+VLAN 20 - Admin
+Assign Ports: 1-4 to VLAN 10, 5-8 to VLAN 20
+
+Lab 3: AP Configuration for Secure SSID
+
+SSID Name: PCNA-Training
+
+WPA2-PSK: strongpassword123
+
+Enable Client Isolation
+
+2.4GHz: Channel 1
+
+5GHz: Channel 149
+
+Lab 4: Enabling Remote Access to RK-1
+
+Set WAN IP to Static
+
+Port forward TCP 443 and 22
+
+Enable SSL Certs (self-signed)
+
+Lab 5: Diagnose with Ping & Traceroute
