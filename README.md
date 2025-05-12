@@ -19,6 +19,90 @@ Using OvrC to monitor and manage customer networks
 
 My study guide was over 15 pages of detailed objectives. From subnetting and DHCP design, to PoE power budgets, to bridge priorities and spanning trees, I was trained to approach every home or small business deployment with the skills of a full network engineer.
 
+🔐 Course Access & Registration
+
+Become a Snap One Partner
+
+Visit https://www.snapav.com and apply to become a partner (required to access the PCNA course).
+
+Register for the PCNA Course
+
+Log into the Snap One Partner Portal.
+
+Navigate to the PCNA training section and enroll.
+
+Receive Hardware Kit
+
+Upon enrollment, Snap One mails a hardware kit that includes all necessary devices for hands-on configuration.
+
+📦 Hardware Kit Contents
+
+The kit provided for the PCNA course included the following devices:
+
+1x Pakedge RK-1 Router
+
+1x Pakedge SX-8P 8-Port PoE Switch
+
+2x Pakedge WK-1 Wireless Access Point
+
+1x Pakedge PDU (Power Distribution Unit)
+
+1x Preloaded USB with configuration files & firmware
+
+🧠 PCNA Curriculum Summary
+
+The course was broken into several structured sections, each focused on a core networking concept or device:
+
+Module 1: Networking Basics
+
+IP addressing and subnetting
+
+IPv4 vs IPv6
+
+DHCP vs Static IP
+
+NAT and port forwarding
+
+Module 2: Router Configuration (RK-1)
+
+WAN/LAN setup
+
+Default routes and DNS
+
+Enabling remote management
+
+Security best practices
+
+Module 3: Switch Configuration (SX-8P)
+
+VLAN creation and management
+
+Trunk vs access ports
+
+Power over Ethernet (PoE) testing
+
+Switch diagnostics and port mirroring
+
+Module 4: Wireless Access Point (WK-1)
+
+SSID setup
+
+Band steering (2.4GHz vs 5GHz)
+
+WPA2 and MAC filtering
+
+Wireless signal optimization
+
+Module 5: Network Design & Troubleshooting
+
+Identifying bottlenecks
+
+Loop prevention (STP)
+
+Multicast vs broadcast traffic
+
+Logging and remote access
+
 This repo documents my entire experience: from receiving the hardware kit, to completing lab exercises, to fully understanding what it takes to design, configure, and remotely manage a Pakedge-powered network.
 
 I completed the full course, but did not attempt the final exam, so I did not receive the official certificate. However, the hands-on knowledge I gained has been directly applied to multiple real-world deployments.
